@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="坦克大战:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/_jar</output-path>
+    <root id="archive" name="坦克大战.jar">
+      <element id="extracted-dir" path="$PROJECT_DIR$/Tank2019V2/lib/netty-all-4.1.19.Final.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

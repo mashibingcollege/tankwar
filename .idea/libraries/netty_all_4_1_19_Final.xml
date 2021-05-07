@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="netty-all-4.1.19.Final">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Tank2019V2/lib/netty-all-4.1.19.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/Tank2019V2/lib/netty-all-4.1.19.Final-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/Tank2019V2/lib/netty-all-4.1.19.Final-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
