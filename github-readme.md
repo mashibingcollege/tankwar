@@ -84,7 +84,7 @@ Tank2019V2                                父项目
 
 启动ServerFrame类，是网络版的服务端
 
-启动main主启动类，是网络版的客户端，可以设置Allow parallel run开启多个客户端坦克做对战演示
+启动main主启动类，是网络版的客户端，可设置Allow parallel run开启多个客户端坦克做对战演示
 
 
 
