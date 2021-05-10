@@ -1,6 +1,7 @@
 ## 项目演示
 
-![tank1](github-readme.assets/tank1.png)
+![tank1](https://github.com/mashibingcollege/tankwar/blob/main/github-readme.assets/tank1.png)
+
 
 ![tank2](github-readme.assets/tank2.png)
 
