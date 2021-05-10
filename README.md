@@ -1,9 +1,9 @@
 ## 项目演示
 
-![tank1](https://github.com/mashibingcollege/tankwar/blob/main/github-readme.assets/tank1.png)
+![tank1](https://github.com/mashibingcollege/tankwar/blob/main/Tank2019V2/src/readmejpg/tank1.png)
 
 
-![tank2](github-readme.assets/tank2.png)
+![tank2](https://github.com/mashibingcollege/tankwar/blob/main/Tank2019V2/src/readmejpg/tank2.png)
 
 小福利：小编准备了1700+页的面试题集锦，关注公众号“程序员二哥”，发送“666”领取
 
@@ -95,5 +95,5 @@ Tank2019V2                                父项目
 
 由马士兵教育面试专家专门为学生面试编撰的《BAT面试突击》手册，公众号后台回复 **"BAT面试"** 即可领取！
 
-![gongzhaonghao](github-readme.assets/gongzhaonghao.png)
+![gongzhaonghao](https://github.com/mashibingcollege/tankwar/blob/main/Tank2019V2/src/readmejpg/gongzhaonghao.png)
 
